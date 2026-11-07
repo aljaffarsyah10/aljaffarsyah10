@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Hi%2C%20I%27m%20Jaffar&fontSize=36&fontColor=ffffff&fontAlignY=32&desc=Student%20%7C%20Software%20and%20Web%20Enthusiast&descSize=16&descAlignY=55" width="100%" alt="Header" />
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=140&section=header&text=Hi%2C%20I%27m%20Jaffar&fontSize=36&fontColor=ffffff&fontAlignY=32&desc=Student%20%7C%20Software%20and%20Web%20Enthusiast&descSize=16&descAlignY=55" width="100%" alt="Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=420&height=30&lines=Passionate+about+Coding+%26+Building;Turning+Ideas+into+Reality;Open+for+Collaborations!" alt="Typing" />
 
@@ -29,4 +29,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="520" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=80&section=footer" width="100%" />
