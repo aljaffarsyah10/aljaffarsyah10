@@ -1,43 +1,111 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**aljaffarsyah10/aljaffarsyah10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Hi%20There,%20I'm%20Jaffar%20👋&fontSize=42&fontAlignY=38&desc=Student%20%7C%20Software%20%26%20Web%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
-Here are some ideas to get you started:
+  <!-- Animated Typing Subtitle -->
+  <p align="center">
+    <a href="https://github.com/aljaffarsyah10">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Passionate+about+Coding+%26+Building;Constantly+Learning+New+Technologies;Turning+Ideas+into+Reality;Open+for+Collaborations!" alt="Typing SVG" />
+    </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/aljaffarsyah10">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 
-# 💫 About Me:
-Student
+</div>
 
-<!--
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aljaffarsyah10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aljaffarsyah10&theme=dark&hide_border=false)<br/>
+### 💫 About Me
 
+```yaml
+name: Jaffar
+role: Student & Tech Enthusiast
+location: Indonesia
+current_focus: Full-stack Development & Modern Frameworks
+interests: [Web Development, Software Engineering, Open Source]
+fun_fact: "Coffee turns into code ☕ -> 💻"
+```
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aljaffarsyah10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 **Currently Working on:** Exciting web projects & exploring APIs.
+- 🌱 **Currently Learning:** Next.js, Modern Backend Architectures, & Cloud Deployments.
+- 💬 **Ask me about:** JavaScript, Python, Web Development, and Databases.
+- ⚡ **Hobby:** Exploring new tech stacks and open-source projects.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,dart,java,c,cpp,php" alt="Languages" />
+</p>
+
+#### Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind" alt="Frontend" />
+</p>
+
+#### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb" alt="Backend & DB" />
+</p>
+
+#### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,notion" alt="Tools" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+  <!-- GitHub Stats & Streak Stats -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aljaffarsyah10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aljaffarsyah10&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  </p>
+
+  <!-- Top Languages -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljaffarsyah10&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  </p>
+
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aljaffarsyah10&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=aljaffarsyah10&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+---
 
-
-
-
+<!-- Profile Visitor Counter Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=100&section=footer" width="100%" alt="Footer" />
+  
+  <p>
+    👁️ <i>Profile Visitors:</i> 
+    <img src="https://visitcount.itsvg.in/api?id=aljaffarsyah10&icon=0&color=6" alt="Visitor Count" />
+  </p>
+</div>
